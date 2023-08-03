@@ -1,0 +1,27 @@
+foreground: "#89cff0"
+background_image:
+  path: 'cyberpunk_girl.png'
+  opacity: 30
+background: "#1d1d1e"
+details: "darker"
+accent: "#89cff0"
+terminal_colors:
+  normal:
+    black: "#0092ff"
+    yellow: "#0086ff"
+    cyan: "#00e7ff"
+    red: "#00f3ff"
+    magenta: "#6dff00"
+    white: "#f1f1f1"
+    green: "#6adb00"
+    blue: "#a5d5fe"
+  bright:
+    blue: "#c1e3fe"
+    black: "#8e8e8e"
+    white: "#feffff"
+    red: "#ffc4bd"
+    green: "#d6fcb9"
+    magenta: "#ffb1fe"
+    cyan: "#e5e6fe"
+    yellow: "#fefdd5"
+
